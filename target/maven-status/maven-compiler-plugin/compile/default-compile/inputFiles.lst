@@ -1,0 +1,12 @@
+/home/francisco-fabio/Taksa/src/main/java/checklisthero/example/demo/DemoApplication.java
+/home/francisco-fabio/Taksa/src/main/java/checklisthero/example/demo/controller/AuthController.java
+/home/francisco-fabio/Taksa/src/main/java/checklisthero/example/demo/controller/UserController.java
+/home/francisco-fabio/Taksa/src/main/java/checklisthero/example/demo/dto/LoginDTO.java
+/home/francisco-fabio/Taksa/src/main/java/checklisthero/example/demo/dto/UserDTO.java
+/home/francisco-fabio/Taksa/src/main/java/checklisthero/example/demo/entity/Task.java
+/home/francisco-fabio/Taksa/src/main/java/checklisthero/example/demo/entity/TaskStatus.java
+/home/francisco-fabio/Taksa/src/main/java/checklisthero/example/demo/entity/User.java
+/home/francisco-fabio/Taksa/src/main/java/checklisthero/example/demo/repository/TaskRepository.java
+/home/francisco-fabio/Taksa/src/main/java/checklisthero/example/demo/repository/UserRepository.java
+/home/francisco-fabio/Taksa/src/main/java/checklisthero/example/demo/security/SecurityConfig.java
+/home/francisco-fabio/Taksa/src/main/java/checklisthero/example/demo/service/UserService.java
